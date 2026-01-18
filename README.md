@@ -1,4 +1,4 @@
-[lab3.md](https://github.com/user-attachments/files/24699047/lab3.md)# lab3-[Uploading lab3.md
+[lab3.md](https://github.com/user-attachments/files/24699047/lab3.md)-[Uploading lab3.md
 # Рязанова Кристина ИТ-8 Лабораторная №3
 
 # Задание 1
